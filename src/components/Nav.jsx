@@ -8,6 +8,8 @@ const Nav = () => {
       <div className='w-full text-white flex justify-between py-3 px-10 bg-[#0b0b0b]'>
           <div className=''>
             <img src="https://movieoapp.vercel.app/static/media/logo.5f76119f8f1f473eea2f.png" alt="" className='w-24' />
+            <li>Tv Shows</li>
+          <li>Movies</li>
           </div>
         
       <div>
